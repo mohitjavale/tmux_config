@@ -1,1 +1,3 @@
-wget -qO ~/.tmux.conf <https://raw.githubusercontent.com/YOUR_USERNAME/tmux-config/main/.tmux.conf>
+```
+wget -qO ~/.tmux.conf https://raw.githubusercontent.com/mohitjavale/tmux_config/main/.tmux.conf
+```
